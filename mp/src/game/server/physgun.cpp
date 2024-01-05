@@ -33,7 +33,7 @@ ConVar phys_gunglueradius("phys_gunglueradius", "128");
 static int g_physgunBeam;
 #define PHYSGUN_BEAM_SPRITE		"sprites/physbeam.vmt"
 
-#define MAX_PELLETS	9999
+#define MAX_PELLETS	500
 
 class CWeaponGravityGun;
 
