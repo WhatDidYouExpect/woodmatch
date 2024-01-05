@@ -1,0 +1,16 @@
+﻿  Compiling pointeroverride.asm
+  Microsoft (R) Macro Assembler Version 14.38.33133.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\public\tier0\pointeroverride.asm
+  Running VPC CRC Check - glview.vpc
+  glview.cpp
+  memoverride.cpp
+  cmdlib.cpp
+  filesystem_helpers.cpp
+  filesystem_init.cpp
+  filesystem_tools.cpp
+  physdll.cpp
+     Creating library .\Release\.\glview.lib and object .\Release\.\glview.exp
+  glview.vcxproj -> C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\utils\glview\Release\glview.exe
+  Publishing to ..\..\..\game\bin\.

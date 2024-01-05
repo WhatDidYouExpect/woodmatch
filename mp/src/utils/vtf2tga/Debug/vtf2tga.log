@@ -1,0 +1,26 @@
+﻿  Compiling pointeroverride.asm
+  Microsoft (R) Macro Assembler Version 14.38.33133.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\public\tier0\pointeroverride.asm
+  Running VPC CRC Check - vtf2tga.vpc
+  memoverride.cpp
+  vtf2tga.cpp
+     Creating library .\Debug\.\vtf2tga.lib and object .\Debug\.\vtf2tga.exp
+  vtf2tga.vcxproj -> C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\utils\vtf2tga\Debug\vtf2tga.exe
+  Publishing to ..\..\..\game\bin\.
+  The system cannot find the path specified.
+  *** ERROR! PostBuildStep FAILED for Vtf2tga! EXE or DLL is probably running. ***
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: The command "copy "C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\utils\vtf2tga\Debug\"vtf2tga.exe ..\..\..\game\bin\.\vtf2tga.exe >nul
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: if ERRORLEVEL 1 goto BuildEventFailed
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: if exist "C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\utils\vtf2tga\Debug\"vtf2tga.map copy "C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\utils\vtf2tga\Debug\"vtf2tga.map ..\..\..\game\bin\.\vtf2tga.map >nul
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: copy "C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\utils\vtf2tga\Debug\"vtf2tga.pdb ..\..\..\game\bin\.\vtf2tga.pdb >nul
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: if ERRORLEVEL 1 goto BuildEventFailed
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: goto BuildEventOK
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: :BuildEventFailed
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: echo *** ERROR! PostBuildStep FAILED for Vtf2tga! EXE or DLL is probably running. ***
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: del /q "C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\utils\vtf2tga\Debug\"vtf2tga.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: exit 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: :BuildEventOK
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: 
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: :VCEnd" exited with code 1.

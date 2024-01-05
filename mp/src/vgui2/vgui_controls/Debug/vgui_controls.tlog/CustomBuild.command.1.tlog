@@ -1,0 +1,4 @@
+^C:\USERS\WHAT\DESKTOP\WOODMATCH\MP\SRC\VGUI2\VGUI_CONTROLS\VGUI_CONTROLS.VPC
+if exist "..\..\devtools\bin\vpc.exe" "..\..\devtools\bin\vpc.exe" -crc2 "vgui_controls.vcxproj"
+if ERRORLEVEL 1 exit /b 1
+echo crc_complete > C:\Users\what\Desktop\woodmatch\mp\src\vgui2\vgui_controls\vgui_controls.vpc.sentinel

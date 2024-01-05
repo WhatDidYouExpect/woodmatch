@@ -1,0 +1,4 @@
+^C:\USERS\WHAT\DESKTOP\WOODMATCH\MP\SRC\RAYTRACE\RAYTRACE.VPC
+if exist "..\devtools\bin\vpc.exe" "..\devtools\bin\vpc.exe" -crc2 "raytrace.vcxproj"
+if ERRORLEVEL 1 exit /b 1
+echo crc_complete > C:\Users\what\Desktop\woodmatch\mp\src\raytrace\raytrace.vpc.sentinel

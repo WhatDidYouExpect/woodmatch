@@ -1,0 +1,10 @@
+﻿  Compiling pointeroverride.asm
+  Microsoft (R) Macro Assembler Version 14.38.33133.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\public\tier0\pointeroverride.asm
+  Running VPC CRC Check - height2normal.vpc
+  height2normal.cpp
+     Creating library .\Release\.\height2normal.lib and object .\Release\.\height2normal.exp
+  height2normal.vcxproj -> C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\utils\height2normal\Release\height2normal.exe
+  Publishing to ..\..\..\game\bin\.

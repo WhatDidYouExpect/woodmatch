@@ -1,0 +1,30 @@
+﻿  Compiling pointeroverride.asm
+  Microsoft (R) Macro Assembler Version 14.38.33133.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\public\tier0\pointeroverride.asm
+  Running VPC CRC Check - vice.vpc
+  cmdlib.cpp
+  filesystem_helpers.cpp
+  filesystem_init.cpp
+  filesystem_tools.cpp
+  memoverride.cpp
+  vice.cpp
+     Creating library .\Debug\.\vice.lib and object .\Debug\.\vice.exp
+  vice.vcxproj -> C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\utils\vice\Debug\vice.exe
+  Publishing to ..\..\..\game\bin\.
+  The system cannot find the path specified.
+  *** ERROR! PostBuildStep FAILED for Vice! EXE or DLL is probably running. ***
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: The command "copy "C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\utils\vice\Debug\"vice.exe ..\..\..\game\bin\.\vice.exe >nul
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: if ERRORLEVEL 1 goto BuildEventFailed
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: if exist "C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\utils\vice\Debug\"vice.map copy "C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\utils\vice\Debug\"vice.map ..\..\..\game\bin\.\vice.map >nul
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: copy "C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\utils\vice\Debug\"vice.pdb ..\..\..\game\bin\.\vice.pdb >nul
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: if ERRORLEVEL 1 goto BuildEventFailed
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: goto BuildEventOK
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: :BuildEventFailed
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: echo *** ERROR! PostBuildStep FAILED for Vice! EXE or DLL is probably running. ***
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: del /q "C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\utils\vice\Debug\"vice.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: exit 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: :BuildEventOK
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: 
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: :VCEnd" exited with code 1.

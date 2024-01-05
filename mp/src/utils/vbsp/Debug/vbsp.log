@@ -1,0 +1,61 @@
+﻿  Compiling pointeroverride.asm
+  Microsoft (R) Macro Assembler Version 14.38.33133.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\public\tier0\pointeroverride.asm
+  Running VPC CRC Check - vbsp.vpc
+  boundbox.cpp
+  brushbsp.cpp
+  CollisionUtils.cpp
+  csg.cpp
+  cubemap.cpp
+  detail.cpp
+  detailObjects.cpp
+  disp_common.cpp
+  disp_ivp.cpp
+  disp_powerinfo.cpp
+  disp_vbsp.cpp
+  faces.cpp
+  glfile.cpp
+  ivp.cpp
+  leakfile.cpp
+  loadcmdline.cpp
+  lumpfiles.cpp
+  manifest.cpp
+  map.cpp
+  materialpatch.cpp
+  materialsub.cpp
+  memoverride.cpp
+  mstristrip.cpp
+  nodraw.cpp
+  normals.cpp
+  overlay.cpp
+  physdll.cpp
+  portals.cpp
+  prtfile.cpp
+  ScratchPad3D.cpp
+  scratchpad_helpers.cpp
+  StaticProp.cpp
+  textures.cpp
+  tree.cpp
+  utilmatlib.cpp
+  vbsp.cpp
+  worldvertextransitionfixup.cpp
+  writebsp.cpp
+  zip_utils.cpp
+  bsplib.cpp
+  builddisp.cpp
+  ChunkFile.cpp
+  cmdlib.cpp
+  filesystem_helpers.cpp
+  filesystem_init.cpp
+  filesystem_tools.cpp
+  map_shared.cpp
+  pacifier.cpp
+  polylib.cpp
+  scriplib.cpp
+  threads.cpp
+  tools_minidump.cpp
+     Creating library .\Debug\.\vbsp.lib and object .\Debug\.\vbsp.exp
+  vbsp.vcxproj -> C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\utils\vbsp\Debug\vbsp.exe
+  Publishing to ..\..\..\game\bin\.

@@ -1,0 +1,11 @@
+﻿  Compiling pointeroverride.asm
+  Microsoft (R) Macro Assembler Version 14.38.33133.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\public\tier0\pointeroverride.asm
+  Running VPC CRC Check - vtf2tga.vpc
+  memoverride.cpp
+  vtf2tga.cpp
+     Creating library .\Release\.\vtf2tga.lib and object .\Release\.\vtf2tga.exp
+  vtf2tga.vcxproj -> C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\utils\vtf2tga\Release\vtf2tga.exe
+  Publishing to ..\..\..\game\bin\.

@@ -1,0 +1,15 @@
+"UnlitGeneric"
+{
+	"$basetexture" "woodingMonitor"
+	"$nolod" 1
+ "Proxies"
+   {
+      "AnimatedTexture"
+      {
+         "animatedtexturevar" "$basetexture"
+         "animatedtextureframenumvar" "$frame"
+         "animatedtextureframerate" "0.7"
+      }
+   }
+
+}

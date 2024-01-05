@@ -1,0 +1,15 @@
+﻿  Compiling pointeroverride.asm
+  Microsoft (R) Macro Assembler Version 14.38.33133.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\public\tier0\pointeroverride.asm
+  Running VPC CRC Check - vice.vpc
+  cmdlib.cpp
+  filesystem_helpers.cpp
+  filesystem_init.cpp
+  filesystem_tools.cpp
+  memoverride.cpp
+  vice.cpp
+     Creating library .\Release\.\vice.lib and object .\Release\.\vice.exp
+  vice.vcxproj -> C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\utils\vice\Release\vice.exe
+  Publishing to ..\..\..\game\bin\.

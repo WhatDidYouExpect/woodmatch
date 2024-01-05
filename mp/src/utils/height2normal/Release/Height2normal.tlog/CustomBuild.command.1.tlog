@@ -1,0 +1,6 @@
+^C:\USERS\WHAT\DESKTOP\WOODMATCH\WOODMATCH\MP\SRC\PUBLIC\TIER0\POINTEROVERRIDE.ASM
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX64\x86\ml.exe" /c /Cp /Zi /Fo".\Release\.\\pointeroverride.obj" "C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\public\tier0\pointeroverride.asm"
+^C:\USERS\WHAT\DESKTOP\WOODMATCH\WOODMATCH\MP\SRC\UTILS\HEIGHT2NORMAL\HEIGHT2NORMAL.VPC
+if exist "..\..\devtools\bin\vpc.exe" "..\..\devtools\bin\vpc.exe" -crc2 "height2normal.vcxproj"
+if ERRORLEVEL 1 exit /b 1
+echo crc_complete > C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\utils\height2normal\height2normal.vpc.sentinel

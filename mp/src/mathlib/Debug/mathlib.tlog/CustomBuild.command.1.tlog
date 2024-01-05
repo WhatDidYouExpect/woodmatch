@@ -1,0 +1,4 @@
+^C:\USERS\WHAT\DESKTOP\WOODMATCH\MP\SRC\MATHLIB\MATHLIB.VPC
+if exist "..\devtools\bin\vpc.exe" "..\devtools\bin\vpc.exe" -crc2 "mathlib.vcxproj"
+if ERRORLEVEL 1 exit /b 1
+echo crc_complete > C:\Users\what\Desktop\woodmatch\mp\src\mathlib\mathlib.vpc.sentinel

@@ -1,0 +1,55 @@
+﻿  Compiling pointeroverride.asm
+  Microsoft (R) Macro Assembler Version 14.38.33133.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\public\tier0\pointeroverride.asm
+  Running VPC CRC Check - vrad_dll.vpc
+  BSPTreeData.cpp
+  disp_common.cpp
+  disp_powerinfo.cpp
+  disp_vrad.cpp
+  imagepacker.cpp
+  incremental.cpp
+  leaf_ambient_lighting.cpp
+  lightmap.cpp
+  loadcmdline.cpp
+  lumpfiles.cpp
+  macro_texture.cpp
+  memoverride.cpp
+  mpi_stats.cpp
+  mpivrad.cpp
+  MySqlDatabase.cpp
+  pacifier.cpp
+  physdll.cpp
+  radial.cpp
+  SampleHash.cpp
+  trace.cpp
+  utilmatlib.cpp
+  vismat.cpp
+  vmpi_tools_shared.cpp
+  vrad.cpp
+  VRAD_DispColl.cpp
+  VradDetailProps.cpp
+  VRadDisps.cpp
+  vraddll.cpp
+  VRadStaticProps.cpp
+  zip_utils.cpp
+  bsplib.cpp
+  builddisp.cpp
+  ChunkFile.cpp
+  cmdlib.cpp
+  DispColl_Common.cpp
+  map_shared.cpp
+  polylib.cpp
+  scriplib.cpp
+  threads.cpp
+  tools_minidump.cpp
+  CollisionUtils.cpp
+  filesystem_helpers.cpp
+  ScratchPad3D.cpp
+  ScratchPadUtils.cpp
+     Creating library .\Release\.\vrad_dll.lib and object .\Release\.\vrad_dll.exp
+  vrad_dll.vcxproj -> C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\utils\vrad\Release\vrad_dll.dll
+  Publishing to ..\..\..\game\bin\.
+          1 file(s) copied.
+          1 file(s) copied.

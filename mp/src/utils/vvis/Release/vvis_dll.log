@@ -1,0 +1,31 @@
+﻿  Compiling pointeroverride.asm
+  Microsoft (R) Macro Assembler Version 14.38.33133.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\public\tier0\pointeroverride.asm
+  Running VPC CRC Check - vvis_dll.vpc
+  bsplib.cpp
+  cmdlib.cpp
+  collisionutils.cpp
+  filesystem_helpers.cpp
+  flow.cpp
+  loadcmdline.cpp
+  lumpfiles.cpp
+  mpi_stats.cpp
+  mpivis.cpp
+  MySqlDatabase.cpp
+  pacifier.cpp
+  scratchpad3d.cpp
+  scratchpad_helpers.cpp
+  scriplib.cpp
+  threads.cpp
+  tools_minidump.cpp
+  vmpi_tools_shared.cpp
+  vvis.cpp
+  WaterDist.cpp
+  zip_utils.cpp
+     Creating library .\Release\.\vvis_dll.lib and object .\Release\.\vvis_dll.exp
+  vvis_dll.vcxproj -> C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\utils\vvis\Release\vvis_dll.dll
+  Publishing to ..\..\..\game\bin\.
+          1 file(s) copied.
+          1 file(s) copied.

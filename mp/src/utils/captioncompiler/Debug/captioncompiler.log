@@ -1,0 +1,19 @@
+﻿  Compiling pointeroverride.asm
+  Microsoft (R) Macro Assembler Version 14.38.33133.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\public\tier0\pointeroverride.asm
+  Running VPC CRC Check - captioncompiler.vpc
+  cmdlib.cpp
+  filesystem_helpers.cpp
+  filesystem_init.cpp
+  pacifier.cpp
+  scriplib.cpp
+  stringregistry.cpp
+  captioncompiler.cpp
+  compiledcaptionswap.cpp
+  filesystem_tools.cpp
+  memoverride.cpp
+     Creating library .\Debug\.\captioncompiler.lib and object .\Debug\.\captioncompiler.exp
+  captioncompiler.vcxproj -> C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\utils\captioncompiler\Debug\captioncompiler.exe
+  Publishing to ..\..\..\game\bin\.

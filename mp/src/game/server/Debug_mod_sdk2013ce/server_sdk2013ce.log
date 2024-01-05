@@ -1,0 +1,10 @@
+﻿  hl2_gamerules.cpp
+  hl2mp_gamerules.cpp
+  weapon_bugbait.cpp
+  hl2mp_client.cpp
+  hl2mp_player.cpp
+     Creating library .\Debug_mod_sdk2013ce\server.lib and object .\Debug_mod_sdk2013ce\server.exp
+  server_sdk2013ce.vcxproj -> C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\game\server\Debug_mod_sdk2013ce\server.dll
+  Publishing to ..\..\..\game\mod_sdk2013ce\bin\.
+          1 file copiati.
+          1 file copiati.

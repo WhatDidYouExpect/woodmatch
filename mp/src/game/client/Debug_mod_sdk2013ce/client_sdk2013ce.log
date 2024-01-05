@@ -1,0 +1,9 @@
+﻿  hl2_gamerules.cpp
+  hl2mp_gamerules.cpp
+  cdll_client_int.cpp
+  c_hl2mp_player.cpp
+C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\game\client\cdll_client_int.cpp(339,15): error C2374: 's_cl_class': redefinition; multiple initialization
+  (compiling source file '/cdll_client_int.cpp')
+  C:\Users\what\Desktop\woodmatch\WOODMATCH\mp\src\game\client\cdll_client_int.cpp(338,15):
+  see declaration of 's_cl_class'
+  
