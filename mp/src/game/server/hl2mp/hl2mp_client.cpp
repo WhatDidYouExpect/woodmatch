@@ -116,7 +116,7 @@ const char* GetGameDescription()
 	if (g_pGameRules) // this function may be called before the world has spawned, and the game rules initialized
 		return g_pGameRules->GetGameDescription();
 	else
-		return "Woodmatch 1.3"; // ligma BALLS bandit
+		return "Woodmatch 1.0"; // ligma BALLS bandit
 }
 
 //-----------------------------------------------------------------------------

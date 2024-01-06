@@ -45,7 +45,7 @@ DESCRIPTION SERVER_OPTIONS
 	{
 		"#Valve_Hostname"
 		{ STRING }
-		{ "Woodmatch Beta 1.3" }
+		{ "Woodmatch 1.0" }
 	}
 
 	"sv_password"
@@ -96,7 +96,14 @@ DESCRIPTION SERVER_OPTIONS
 		{ NUMBER 0.000000 -1.000000 }
 		{ "0.000000" }
 	}
-
+	
+	"sv_infinite_aux_power"
+	{
+		"Infinite Aux Power"
+		{ BOOL }
+		{ "1" }
+	}
+	
 	"mp_teamplay"
 	{
 		"#Valve_Teamplay"
