@@ -1,6 +1,3 @@
-^C:\USERS\WHAT\DESKTOP\WOODMATCH\MP\SRC\PUBLIC\TIER0\POINTEROVERRIDE.ASM
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX64\x86\ml.exe" /safeseh /c /Cp /Zi /Fo".\Release_mod_sdk2013ce\\pointeroverride.obj" "C:\Users\what\Desktop\woodmatch\mp\src\public\tier0\pointeroverride.asm"
-^C:\USERS\WHAT\DESKTOP\WOODMATCH\MP\SRC\GAME\CLIENT\CLIENT_SDK2013CE.VPC
-if exist "..\..\devtools\bin\vpc.exe" "..\..\devtools\bin\vpc.exe" -crc2 "client_sdk2013ce.vcxproj"
-if ERRORLEVEL 1 exit /b 1
-echo crc_complete > C:\Users\what\Desktop\woodmatch\mp\src\game\client\client_sdk2013ce.vpc.sentinel
+version https://git-lfs.github.com/spec/v1
+oid sha256:41ad8d48d89b2dd01b2b8c29c7c46fe32d26b79b8254bf7cda3d7dcdc8451531
+size 630

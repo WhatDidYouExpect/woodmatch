@@ -1,24 +1,3 @@
-﻿  Running VPC CRC Check - mathlib.vpc
-  3dnow.cpp
-  almostequal.cpp
-  anorms.cpp
-  bumpvects.cpp
-  color_conversion.cpp
-  halton.cpp
-  IceKey.cpp
-  imagequant.cpp
-  lightdesc.cpp
-  mathlib_base.cpp
-  polyhedron.cpp
-  powsse.cpp
-  quantize.cpp
-  randsse.cpp
-  simdvectormatrix.cpp
-  sparse_convolution_noise.cpp
-  spherical.cpp
-  sse.cpp
-  sseconst.cpp
-  ssenoise.cpp
-  vector.cpp
-  vmatrix.cpp
-  mathlib.vcxproj -> C:\Users\what\Desktop\woodmatch\mp\src\lib\public\mathlib.lib
+version https://git-lfs.github.com/spec/v1
+oid sha256:38e3cce5b057015bf530f02fa74f48b6622f352c870cc0243db6d037c47992e0
+size 465

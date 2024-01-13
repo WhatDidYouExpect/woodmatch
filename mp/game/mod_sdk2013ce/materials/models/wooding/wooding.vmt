@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/wooding/wooding"
-	"$surfaceprop" "Strider"
-	"$nocull" 1
-	"$nolod" 1
-}
